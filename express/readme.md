@@ -16,6 +16,6 @@
   -> Após baixar todos os pacotes, rode npm start ou yarn start para rodar o
   servidor
 </p>
-<p style="font-weight: 700; color: red">
+<p style="font-weight: 700; color: red;">
   Obs: é necessário ter o <a href="https://nodejs.org/en/">NodeJS</a> instalado!
 </p>
