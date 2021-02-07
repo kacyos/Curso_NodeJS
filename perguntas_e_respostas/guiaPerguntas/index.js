@@ -3,12 +3,13 @@ const app = express();
 
 app.set('view engine', 'ejs');
 
-app.get('/', (req, res) => {
-  res.render('index');
-});
-
-app.get('/principal', (req, res) => {
-  res.render('principal/perfil');
+app.get('/:nome/:language', (req, res) => {
+  const nome = req.params.nome;
+  const language = req.params.language;
+  res.render('index', {
+    nome,
+    language,
+  });
 });
 
 app.listen(8080, () => {
