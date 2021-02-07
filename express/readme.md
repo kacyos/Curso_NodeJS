@@ -2,11 +2,11 @@
 
 <h2>Neste módulo foram presentados os seguintes tópicos:</h2>
 <ul>
-  <li>✔ Express e NPM</li>
-  <li>✔ Rotas</li>
-  <li>✔ Nodemon</li>
-  <li>✔ Parâmetros</li>
-  <li>✔ Query params</li>
+  <li>✅ Express e NPM</li>
+  <li>✅ Rotas</li>
+  <li>✅ Nodemon</li>
+  <li>✅ Parâmetros</li>
+  <li>✅ Query params</li>
 </ul>
 <hr />
 <h2>Para executar o código siga os seguintes procedimentos:</h2>

@@ -2,9 +2,9 @@
 
 <h2>Neste módulo foram presentados os seguintes tópicos:</h2>
 <ul>
-  <li>✔ EJS</li>
-  <li>X Bootstrap</li>
-  <li>X MySQL</li>
+  <li>✅ EJS</li>
+  <li>❌ Bootstrap</li>
+  <li>❌ MySQL</li>
 </ul>
 <hr />
 <h2>O que foi aprendido?</h2>
