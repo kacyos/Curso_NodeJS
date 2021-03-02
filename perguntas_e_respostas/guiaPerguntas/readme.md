@@ -16,6 +16,8 @@
   <li>👉 Oque é o Embedded JavaScript templating (EJS).</li>
   <li>👉 Utilização do EJS para renderizar HTML</li>
   <li>👉 Exibir variáveis no HTML</li>
+  <li>👉 Condicionais com EJS</li>
+  <li>👉 Estrutura de repetição com EJS</li>
 </ul>
 
 <hr />
@@ -32,6 +34,8 @@
   -> Após baixar todos os pacotes, rode npm start ou yarn start para rodar o
   servidor
 </p>
+
+<p>-> Acesse no seu navegador a seguinte URL: http://localhost:8080/seunome/liguagem</p>
 
 <p style="font-weight: 700; color: red">
   Obs: é necessário ter o
